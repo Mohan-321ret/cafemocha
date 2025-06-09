@@ -13,7 +13,7 @@ Welcome to the Coffee Table Booking System, a stylish and responsive web applica
 - Location and branch selection
 - Fully responsive design
 - Contact and feedback form
-
+  
 ## Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
